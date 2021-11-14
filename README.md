@@ -27,7 +27,7 @@ Principal Engineer (Backend) - [Crater](https://www.linkedin.com/company/craterc
 - Love working on different game changing ideas.
 
 #### Contact
-- You can reach me by [emailing me](nishantkparashar@gmail.com).
+- You can reach me by [emailing me](mail_to:nishantkparashar@gmail.com).
 - My [LinkedIn](https://www.linkedin.com/in/nishant-k-parashar/) profile.
 
 <!---
