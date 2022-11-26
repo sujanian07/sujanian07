@@ -17,11 +17,11 @@ I'm a Backend Developer specialising in Python-Django. I have a grasp of technol
 
 ###### Experience
 
-- Senior Backend Engineer - [HealthifyMe](https://www.linkedin.com/company/healthifyme/) (Aug, 2015 - April, 2019)
-- Senior Software Engineer - [WMall](https://www.linkedin.com/company/blitzscale/) (Jan, 2020 - June, 2020)
-- Principal Engineer (Backend) - [Crater](https://www.linkedin.com/company/craterclub/) (June, 2020 - )
-  - Principal Engineer (Backend) - [Crater](https://www.linkedin.com/company/craterclub/) (Aug, 2021, )
-  - Principal Engineer (Backend) - WorkNetwork (June, 2020 - Aug, 2021)
+- Senior Backend Engineer - [HealthifyMe](https://www.linkedin.com/company/healthifyme/)                                    (Aug, 2015 - April, 2019)
+- Senior Software Engineer - [WMall](https://www.linkedin.com/company/blitzscale/)                                          (Jan, 2020 - June, 2020)
+- Principal Engineer (Backend) - Crater (previosuly WorkNetwork)
+  - Principal Engineer (Backend) - [Crater](https://www.linkedin.com/company/craterclub/)                                   (Aug, 2021, )
+  - Principal Engineer (Backend) - WorkNetwork                                                                              (June, 2020 - Aug, 2021)
 
 #### Interests
 
