@@ -16,8 +16,8 @@ I'm a Backend Developer specialising in Python-Django. I have a grasp of technol
 
 ###### Experience
 
-Senior Backend Engineer - [HealthifyMe](https://www.linkedin.com/company/healthifyme/) (Arpil,2015 - May,2019)
-Senior Software Engineer - [WMall](https://www.linkedin.com/company/blitzscale/) (Jan,2020 - June,2020
+Senior Backend Engineer - [HealthifyMe](https://www.linkedin.com/company/healthifyme/) (August,2015 - April,2019)
+Senior Software Engineer - [WMall](https://www.linkedin.com/company/blitzscale/) (Jan,2020 - June,2020)
 Principal Engineer (Backend) - [Crater](https://www.linkedin.com/company/craterclub/) (June,2020 - )
 
 #### Interests
@@ -27,6 +27,8 @@ Principal Engineer (Backend) - [Crater](https://www.linkedin.com/company/craterc
 - Love working on different game changing ideas.
 
 #### Contact
+
+{google_docs}https://docs.google.com/document/d/e/2PACX-1vSm2OSxH31mZXuQGsydObnuBiPFCDQymmPL_ysHdxTAloujV2ZotjM66Z7KwEpU5FwAsP-CHK5oUdbL/pub{/google_docs}
 
 - You can reach me by emailing me. (mail_to: nishantkparashar@gmail.com)
 - My [LinkedIn](https://www.linkedin.com/in/nishant-k-parashar/) profile.
