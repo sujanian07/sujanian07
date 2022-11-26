@@ -8,11 +8,12 @@ I’m an Information & Technology UnderGrad from [NSIT](https://en.wikipedia.org
 
 I'm a Backend Developer specialising in Python-Django. I have a grasp of technologies including:
 
-- Python(Django)
-- MySQL/Posgres
+- Python, Django, DRF
+- MySQL, Posgres
 - Javascript, Node.js.
-- Docker
 - Fluent in algorithms and data structures.
+- Tools
+  - Git, Docker, Retool, AWS Infrastructure, Datadog,
 
 ###### Experience
 
